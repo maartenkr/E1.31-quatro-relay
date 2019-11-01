@@ -1,4 +1,4 @@
-// Wemos D1 Mini E1.31 - 6 channel dumb RGB led sketch.
+// Wemos D1 Mini E1.31 - 4 channel dumb RGB led sketch.
 
 #include <ESP8266WiFi.h>
 #include <E131.h> // Copyright (c) 2015 Shelby Merrick http://www.forkineye.com
